@@ -290,5 +290,4 @@ Please contact us at <a href="mailto:longcat-team@meituan.com">longcat-team@meit
 
 
 #### WeChat Group
-
-<img src="figures/Wechat.png" width = "200" height = "200"  />
+<img src="https://raw.githubusercontent.com/meituan-longcat/LongCat-Flash-Chat/main/wechat-assets/Wechat.png" width="200px">
